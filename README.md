@@ -11,7 +11,7 @@
 
 
 
-![GitHub followers](https://img.shields.io/github/followers/templateuser?color=%2301fb11&style=flat-badge)
+![GitHub followers](https://img.shields.io/github/followers/templateuser?color=%2301fb11&style=flat)
 ![GitHub repo size][badge]
 
 
