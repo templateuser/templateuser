@@ -15,9 +15,6 @@
 ![GitHub repo size][badge]
 
 
-![xfsadfqe21123][badge]
-
-
 [website]: https://udemy.com
 [course]: http://udemy.com
 [twitter]: https://twitter.com/
