@@ -15,7 +15,7 @@
 ![GitHub repo size][badge]
 
 
-[example][badge]
+![example][badge]
 
 
 [website]: https://udemy.com
@@ -23,4 +23,3 @@
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
 [badge]: https://img.shields.io/github/repo-size/templateuser/gitexam?color=%23e61a7b&style=for-the-badge
-
